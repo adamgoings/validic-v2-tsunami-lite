@@ -1,0 +1,30 @@
+nav {
+  background-color: rgb(90, 90, 221);
+}
+
+#submit-btn {
+  background-color: green;
+  margin-left: 5px;
+}
+
+#jsonDiv {
+  background-color: black;
+  color: lightgreen;
+ padding-left: 10px;
+}
+
+#totalResults {
+  background-color: green;
+  color: white;
+  font-weight: bolder;
+  padding-left: 10px;
+}
+
+label {
+  padding: 5px;
+}
+
+#startDateDiv, #endDateDiv {
+  margin-left: 15px;
+  margin-right: 90%;
+}
